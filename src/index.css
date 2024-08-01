@@ -6,16 +6,11 @@
   --ff-kr: "Noto Sans KR", sans-serif;
   --ff-en: "IBM Plex Mono", monospace;
   color-scheme: dark;
+  /* color-scheme: light; */
 }
 
-.App  {
-  font-size: 30px;
-}
-
-.kr {
-  font-family: var(--ff-kr);
-}
-
-.en {
-  font-family: var(--ff-en);
+.container {
+  margin: auto;
+  padding: 1rem;
+  width: 100%;
 }

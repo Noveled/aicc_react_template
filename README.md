@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h4>
+<h4 align="center">
     Noveled From AICC 
 </h4>
 
@@ -19,5 +19,3 @@
   <a href="">Ask a Question</a>
 </div>
 
-<div align="center">
-<br />
