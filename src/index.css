@@ -14,3 +14,14 @@
   padding: 1rem;
   width: 100%;
 }
+
+@media (max-width) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+.vid {
+  width: 80%;
+  box-shadow: 0 0 5px indigo;
+}
