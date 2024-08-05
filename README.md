@@ -19,3 +19,6 @@
   <a href="">Ask a Question</a>
 </div>
 
+<div>사용해보기 : 
+<a href="https://noveled.github.io/aicc_react_template/home">aicc_react_template</a>
+</div>
