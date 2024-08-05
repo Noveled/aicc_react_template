@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aicc_react_template/static/css/main.4856a23a.css",
-    "main.js": "/aicc_react_template/static/js/main.084fef39.js",
+    "main.css": "/aicc_react_template/static/css/main.0f849412.css",
+    "main.js": "/aicc_react_template/static/js/main.5bc74548.js",
     "static/media/video2.mp4": "/aicc_react_template/static/media/video2.dccb45b33221101723b1.mp4",
     "static/media/video1.mp4": "/aicc_react_template/static/media/video1.c57aaad094fcda3e06fe.mp4",
     "static/media/ad01.png": "/aicc_react_template/static/media/ad01.13e3d725edfd530ecd9d.png",
@@ -25,11 +25,11 @@
     "static/media/mpc02.PNG": "/aicc_react_template/static/media/mpc02.054aa9643f1384cfa12c.PNG",
     "static/media/mpc03.PNG": "/aicc_react_template/static/media/mpc03.a28629c26ae506239757.PNG",
     "index.html": "/aicc_react_template/index.html",
-    "main.4856a23a.css.map": "/aicc_react_template/static/css/main.4856a23a.css.map",
-    "main.084fef39.js.map": "/aicc_react_template/static/js/main.084fef39.js.map"
+    "main.0f849412.css.map": "/aicc_react_template/static/css/main.0f849412.css.map",
+    "main.5bc74548.js.map": "/aicc_react_template/static/js/main.5bc74548.js.map"
   },
   "entrypoints": [
-    "static/css/main.4856a23a.css",
-    "static/js/main.084fef39.js"
+    "static/css/main.0f849412.css",
+    "static/js/main.5bc74548.js"
   ]
 }
