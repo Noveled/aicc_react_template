@@ -20,5 +20,5 @@
 </div>
 
 <div>사용해보기 : 
-<a href="https://noveled.github.io/aicc_react_template/home">aicc_react_template</a>
+<a href="https://noveled.github.io/aicc_react_template">aicc_react_template</a>
 </div>
