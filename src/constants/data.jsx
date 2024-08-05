@@ -105,22 +105,22 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: 'Code merge made easy',
+    title: '쉬운 코드 병합',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'Review code without worry',
+    title: '안전한 코드 검토',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'AI Assistance to reduce time',
+    title: 'AI로 시간 절약',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'Share work in minutes',
+    title: '최단시간 코드 공유',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
@@ -136,6 +136,7 @@ export const pricingOptions = [
       'Web Analytics',
       'Private Mode',
     ],
+    link: 'free',
   },
   {
     title: 'Pro',
@@ -146,6 +147,7 @@ export const pricingOptions = [
       'Web Analytics (Advance)',
       'Private Mode',
     ],
+    link: 'Pro',
   },
   {
     title: 'Enterprise',
@@ -156,8 +158,10 @@ export const pricingOptions = [
       'High Performance Network',
       'Private Mode',
     ],
+    link: 'enterprise',
   },
 ];
+
 
 export const resourcesLinks = [
   { to: '/Getting-Started', text: 'Getting Started' },
