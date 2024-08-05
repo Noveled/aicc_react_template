@@ -12,6 +12,25 @@ import user4 from '../assets/profile-pictures/user4.jpg';
 import user5 from '../assets/profile-pictures/user5.jpg';
 import user6 from '../assets/profile-pictures/user6.jpg';
 
+import ddi01 from '../assets/features-pictures/ddi01.gif';
+import ddi02 from '../assets/features-pictures/ddi02.PNG';
+
+import mpc01 from '../assets/features-pictures/mpc01.jpg';
+import mpc02 from '../assets/features-pictures/mpc02.PNG';
+import mpc03 from '../assets/features-pictures/mpc03.PNG';
+
+import bt01 from '../assets/features-pictures/bt01.png';
+import bt02 from '../assets/features-pictures/bt02.png';
+
+import rtp01 from '../assets/features-pictures/rtp01.gif';
+import rtp02 from '../assets/features-pictures/rtp02.png';
+
+import ct01 from '../assets/features-pictures/ct01.gif';
+import ct02 from '../assets/features-pictures/ct02.PNG';
+
+import ad01 from '../assets/features-pictures/ad01.png';
+import ad02 from '../assets/features-pictures/ad02.png';
+
 export const navItems = [
   { label: 'Home', to: '/' },
   { label: 'Features', to: '/features' },
@@ -190,4 +209,101 @@ export const communityLinks = [
 export const heroLinks = [
   { to: 'start-for-free', text: 'start for free' },
   { to: 'documentation', text: 'documentation' },
+];
+
+
+export const ddiDetails = [
+  { 
+    title: '• What is Drag-and-Drop Interface', 
+    image: ddi01,
+    alt: 'Drag-and-Drop Interface',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: ddi02,
+    alt: 'Useful Interface',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
+];
+
+export const mpcDetails = [
+  { 
+    title: '• What is Multi-Platform Compatibility', 
+    image: mpc01,
+    alt: 'Multi-Platform Compatibility',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: mpc02,
+    alt: 'Useful Development Tools',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
+  { 
+    title: '• Where can I get some?', 
+    image: mpc03,
+    alt: 'Useful Interface',
+    description: "- There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.", 
+  },
+];
+
+export const btDetails = [
+  { 
+    title: '• Built-in Templates', 
+    image: bt01,
+    alt: 'Multi-Platform Compatibility',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: bt02,
+    alt: 'Useful Development Tools',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
+];
+
+export const rtpDetails = [
+  { 
+    title: '• Real-Time Preview', 
+    image: rtp01,
+    alt: 'Real-Time Preview',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: rtp02,
+    alt: 'Useful Development Tools',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
+];
+
+export const ctDetails = [
+  { 
+    title: '• Collaboration Tools', 
+    image: ct01,
+    alt: 'Collaboration Tools',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: ct02,
+    alt: 'Useful Development Tools',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
+];
+
+export const adDetails = [
+  { 
+    title: '• Analytics Dashboard', 
+    image: ad01,
+    alt: 'Collaboration Tools',
+    description: "- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+  },
+  { 
+    title: '• Why do we use it?', 
+    image: ad02,
+    alt: 'Useful Development Tools',
+    description: "- It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).", 
+  },
 ];
